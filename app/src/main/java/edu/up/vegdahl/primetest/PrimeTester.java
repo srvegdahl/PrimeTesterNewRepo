@@ -8,6 +8,14 @@ package edu.up.vegdahl.primetest;
  */
 public class PrimeTester {
 
+
+
+
+
+
+
+
+
     /**
      * Tells whether an integer is prime.
      *
